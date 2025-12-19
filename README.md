@@ -194,6 +194,9 @@ data/
         └── brewery_by_type_and_location/  # Detailed aggregation
 ```
 
+<img width="538" height="972" alt="image" src="https://github.com/user-attachments/assets/ddeb396d-5cf6-45cd-b264-32a0030eb1b5" />
+
+
 ---
 
 ## Cloud Storage (Optional)
