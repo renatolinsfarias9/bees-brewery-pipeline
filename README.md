@@ -138,6 +138,9 @@ This pipeline extracts, transforms, and loads brewery data following the medalli
 start → bronze_layer → silver_layer → gold_layer → quality_checks → end
 ```
 
+<img width="1255" height="218" alt="image" src="https://github.com/user-attachments/assets/6f3d089a-e650-4409-b03b-5cad5867a7b7" />
+
+
 ### Task Details
 
 | Task | Description | Duration |
