@@ -1,0 +1,6 @@
+# Never commit GCS credentials to git!
+gcs_config.json
+*.json
+
+# Keep only README.md
+!README.md
